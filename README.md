@@ -25,7 +25,7 @@ This course covers:
 - [x] Day 3 - Control Flow & Logical Operators
 - [x] Day 4 - Rock Paper Scissors
 - [x] Day 5 - Random Password Generator
-- [ ] Day 6
+- [x] Day 6 - Reeborg's World Maze
 - [ ] Day 7
 - [ ] Day 8
 - [ ] Day 9
