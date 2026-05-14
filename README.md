@@ -40,6 +40,7 @@ Day_2.py
 Day_3.py
 Day_4.py
 Day_5.py
+Day_6.py
 README.md
 ```
 
