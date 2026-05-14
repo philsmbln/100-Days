@@ -24,7 +24,7 @@ This course covers:
 - [x] Day 2 - Tip Calculator
 - [x] Day 3 - Control Flow & Logical Operators
 - [x] Day 4 - Rock Paper Scissors
-- [ ] Day 5
+- [x] Day 5 - Random Password Generator
 - [ ] Day 6
 - [ ] Day 7
 - [ ] Day 8
@@ -38,6 +38,8 @@ This course covers:
 Day_1.py
 Day_2.py
 Day_3.py
+Day_4.py
+Day_5.py
 README.md
 ```
 
