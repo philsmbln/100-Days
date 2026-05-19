@@ -41,6 +41,8 @@ Day_3.py
 Day_4.py
 Day_5.py
 Day_6.py
+Day_7.py
+Hangman_Diagram
 README.md
 ```
 
