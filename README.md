@@ -26,7 +26,7 @@ This course covers:
 - [x] Day 4 - Rock Paper Scissors
 - [x] Day 5 - Random Password Generator
 - [x] Day 6 - Reeborg's World Maze
-- [ ] Day 7
+- [ ] Day 7 - Hangman(Step 3)
 - [ ] Day 8
 - [ ] Day 9
 - [ ] Day 10
