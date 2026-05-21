@@ -46,12 +46,12 @@ while not game_over:
         else:
             display += "_"
 
-    print("Word to guess: " + display)
-
     if lives == 0:
         game_over = True
         print(f'Correct word: {chosen_word}')
         print(f"You Lose, Game Over")
+    else:
+        print("Word to guess: " + placeholder)
 
     if "_" not in display:
         game_over = True
