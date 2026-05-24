@@ -26,7 +26,7 @@ This course covers:
 - [x] Day 4 - Rock Paper Scissors
 - [x] Day 5 - Random Password Generator
 - [x] Day 6 - Reeborg's World Maze
-- [ ] Day 7 - Hangman(Step 3)
+- [x] Day 7 - Hangman
 - [ ] Day 8
 - [ ] Day 9
 - [ ] Day 10
@@ -42,7 +42,10 @@ Day_4.py
 Day_5.py
 Day_6.py
 Day_7.py
+Day_8.py
 Hangman_Diagram
+hangman_words.py
+hangman_art.py
 README.md
 ```
 
